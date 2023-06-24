@@ -1,5 +1,5 @@
 # Simon Game
-This is a memory game which has several levels in it.
+This is a memory game which has several levels.
 
 ### Tech Stack -
 HTML5, CSS3, JQuery, JavaScript.
@@ -41,3 +41,4 @@ HTML5, CSS3, JQuery, JavaScript.
 WRONGE SEQUENCE, GAME OVER!
 <br>
 Do give it a try, and exercise your brain ✨
+DM for any queries!
