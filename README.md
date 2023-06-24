@@ -1,5 +1,5 @@
 # Simon Game
-This is a memory game which has several levels.
+This is a responsive web memory game which has several levels along with different sounds.
 
 ### Tech Stack -
 HTML5, CSS3, JQuery, JavaScript.
@@ -41,4 +41,5 @@ HTML5, CSS3, JQuery, JavaScript.
 WRONGE SEQUENCE, GAME OVER!
 <br>
 Do give it a try, and exercise your brain ✨
-DM for any queries!
+<a href="https://www.linkedin.com/in/priyanshi-agrawal-88b6341bb/" target="_blank">DM for any queries!</a>
+
