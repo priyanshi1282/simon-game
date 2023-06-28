@@ -1,5 +1,6 @@
 # Simon Game
 This is a responsive web memory game which has several levels along with different sounds.
+(Current version is responsive but won't be working on mobile phones, kindly use your laptop to play. Mobile version will be updated soon)
 
 ### Tech Stack -
 HTML5, CSS3, JQuery, JavaScript.
